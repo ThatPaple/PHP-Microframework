@@ -1,0 +1,39 @@
+{
+  "language": {
+    "language_emoji": "🇨🇿",
+    "language_name": "Čeština",
+    "choose_language": "Zvolte jazyk"
+  },
+  "nav": {
+    "home": "Domů",
+    "users": "Uživatelé",
+    "products": "Produkty",
+    "about": "O mně"
+  },
+  "footer": {
+    "footer_text": "Vyvinul ThatPaple (Jams)"
+  },
+  "welcome": "Vítejte v {app}",
+  "user_greeting": "Ahoj, uživateli #{id}",
+  "greetings": {
+    "welcome": "Ahoj {name}, vítej!"
+  },
+  "errors": {
+    "user": {
+      "not_found": "Uživatel nenalezen"
+    },
+    "product": {
+      "invalid": "Neplatné ID produktu"
+    },
+    "404": {
+      "title": "404",
+      "message_line1": "Jejda! Vypadá to, že si tato stránka vzala dovolenou.",
+      "message_line2": "Možná zkuste jít zpět domů?",
+      "home_button": "🏠 Zpět domů"
+    }
+  },
+  "home": {
+    "framework_title": "O Frameworku",
+    "framework_desc": "Ručně vytvořený PHP mikro-framework s MVC, routováním, middleware a podporou vícejazyčnosti."
+  }
+}

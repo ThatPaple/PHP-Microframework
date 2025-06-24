@@ -1,0 +1,39 @@
+{
+  "language": {
+    "language_emoji": "🇩🇪",
+    "language_name": "Deutsch",
+    "choose_language": "Sprache wählen"
+  },
+  "nav": {
+    "home": "Startseite",
+    "users": "Benutzer",
+    "products": "Produkte",
+    "about": "Über mich"
+  },
+  "footer": {
+    "footer_text": "Entwickelt von ThatPaple (Jams)"
+  },
+  "welcome": "Willkommen bei {app}",
+  "user_greeting": "Hallo, Benutzer #{id}",
+  "greetings": {
+    "welcome": "Hallo {name}, willkommen!"
+  },
+  "errors": {
+    "user": {
+      "not_found": "Benutzer nicht gefunden"
+    },
+    "product": {
+      "invalid": "Ungültige Produkt-ID"
+    },
+    "404": {
+      "title": "404",
+      "message_line1": "Ups! Diese Seite ist wohl in den Urlaub gefahren.",
+      "message_line2": "Vielleicht zurück zur Startseite?",
+      "home_button": "🏠 Zurück zur Startseite"
+    }
+  },
+  "home": {
+    "framework_title": "Über das Framework",
+    "framework_desc": "Ein handgefertigtes PHP-Mikro-Framework mit MVC, Routing, Middleware und Mehrsprachigkeit."
+  }
+}
