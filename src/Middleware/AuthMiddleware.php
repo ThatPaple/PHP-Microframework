@@ -10,7 +10,6 @@ class AuthMiddleware
             session_start();
         }
         if (!isset($_SESSION['user_id'])) {
-            Functions::puke();
             http_response_code(401);
             echo '401 Unauthorized — Please log in first.';
             exit;

@@ -27,9 +27,6 @@ $router->get('/', function () {
     View::render('home', ['title' => _t('nav.home')]);
 });
 
-
-
-
 //      Example of post.
 //
 //    $router->post('/login', function () {
